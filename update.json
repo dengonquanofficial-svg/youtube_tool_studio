@@ -1,16 +1,16 @@
 {
-  "version": "1.0.5",
-  "date": "2026-11-18T07:31:08.225Z",
-  "notes": "1.0.5: Đồng bộ Studio đọc được Studio tiếng Việt; kênh mới / chưa có số liệu / số liệu 0 không còn báo lỗi (tính 0). Popup báo trước lượt chụp / đồng bộ theo lịch ở góc phải màn hình: Tạm dừng · Lùi 5 phút · Tắt, không thao tác thì chạy đúng giờ. Bản exe chạy trực tiếp có thông báo Windows. Số liệu dạng 1.217,60 US$, trạng thái video tiếng Việt, danh sách video có phân trang, Cột hiển thị thêm nhóm Thông tin kênh (tối đa 5 cột).",
+  "version": "1.0.6",
+  "date": "2026-11-18T08:33:07.024Z",
+  "notes": "1.0.6: Lấy kênh từ Chrome / đồng bộ Studio không còn kẹt ở trang đăng nhập Google — profile chưa đăng nhập thì để mở trang đăng nhập, đăng nhập xong ứng dụng tự đọc tiếp. Mở bản mới tự trỏ lối tắt về bản đang dùng và chuyển tệp exe bản cũ vào Thùng rác, không còn bị quay về bản cũ.",
   "exe": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.5/YouTubeToolStudio.exe",
-    "sha256": "b6351a4394803976fd205c6015c25f57e865555650b344cfc42e73b9e566a5c8",
-    "size": 106576384
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.6/YouTubeToolStudio.exe",
+    "sha256": "d76078442ab495ccd6e33664ea948f7e51d33cf2e464ad793e0c2f087ea3a756",
+    "size": 106580992
   },
   "setup": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.5/YouTubeToolStudio-Setup.exe",
-    "sha256": "b55f57ea38d7e201a314c6a248e8b3bfdc888ea53e16800820b80d9d90cd0b7f",
-    "size": 106754048
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.6/YouTubeToolStudio-Setup.exe",
+    "sha256": "cb92b848656499960d8aff9939ce2f47dd761317b7a1904549aaa05f72d5aeb0",
+    "size": 106758144
   },
   "licenseServer": "https://script.google.com/macros/s/AKfycbz4-2FWioPsjAeBMyIRYXGVJ5LlyqL45iS7IuyOhVEJJgHb9pJLSaOg6ffbMIIA3Cid/exec"
 }
