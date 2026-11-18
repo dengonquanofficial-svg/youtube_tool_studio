@@ -1,16 +1,16 @@
 {
-  "version": "1.0.4",
-  "date": "2026-11-18T05:12:32.502Z",
-  "notes": "1.0.4: Chụp Studio rê chuột đúng điểm cuối biểu đồ (hiện tooltip doanh thu tháng), sửa mẫu Doanh thu theo tháng / 28 ngày bị Studio báo lỗi; đồng bộ Studio dùng một tab, Subscribers lấy số hiện tại, đủ doanh thu 7 / 28 ngày; hỏi trước khi rời trang còn thay đổi chưa lưu; icon mới; báo trước mỗi lần mở Chrome; không còn chạy FFmpeg khi vừa mở ứng dụng.",
+  "version": "1.0.5",
+  "date": "2026-11-18T07:31:08.225Z",
+  "notes": "1.0.5: Đồng bộ Studio đọc được Studio tiếng Việt; kênh mới / chưa có số liệu / số liệu 0 không còn báo lỗi (tính 0). Popup báo trước lượt chụp / đồng bộ theo lịch ở góc phải màn hình: Tạm dừng · Lùi 5 phút · Tắt, không thao tác thì chạy đúng giờ. Bản exe chạy trực tiếp có thông báo Windows. Số liệu dạng 1.217,60 US$, trạng thái video tiếng Việt, danh sách video có phân trang, Cột hiển thị thêm nhóm Thông tin kênh (tối đa 5 cột).",
   "exe": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.4/YouTubeToolStudio.exe",
-    "sha256": "a62d928f3d1302ea229937df3e06486fe592d06d631bbe436ddecabb6dcd361e",
-    "size": 106568704
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.5/YouTubeToolStudio.exe",
+    "sha256": "b6351a4394803976fd205c6015c25f57e865555650b344cfc42e73b9e566a5c8",
+    "size": 106576384
   },
   "setup": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.4/YouTubeToolStudio-Setup.exe",
-    "sha256": "2f3cd7b7c0352dc7e9221be33c4b15770545f862141553f9ebe208c0855f5937",
-    "size": 106746368
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.5/YouTubeToolStudio-Setup.exe",
+    "sha256": "b55f57ea38d7e201a314c6a248e8b3bfdc888ea53e16800820b80d9d90cd0b7f",
+    "size": 106754048
   },
   "licenseServer": "https://script.google.com/macros/s/AKfycbz4-2FWioPsjAeBMyIRYXGVJ5LlyqL45iS7IuyOhVEJJgHb9pJLSaOg6ffbMIIA3Cid/exec"
 }
