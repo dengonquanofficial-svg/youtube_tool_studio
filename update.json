@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
-  "date": "2026-11-17T10:07:56.548Z",
-  "notes": "1.0.2: Nhân bản / Nối nhanh gấp 2–3 lần (mã hóa 1 lần, hậu kỳ trong cùng lệnh ghép); tiếng khớp hình, không hụt tiếng ở điểm nối; có trình cài đặt YouTubeToolStudio-Setup.exe (Start Menu, gỡ trong Settings → Apps); kênh tự lấy tên, mã UC, logo; giao diện gọn hơn (mục con ẩn khi chưa bật, ô chọn tệp đồng bộ, không còn thông báo trùng).",
+  "version": "1.0.3",
+  "date": "2026-11-18T02:05:50.998Z",
+  "notes": "1.0.3: Danh sách kênh có đồng bộ YouTube Studio (Subscribers, doanh thu ngày / tháng, Views và doanh thu 7 / 28 ngày, danh sách video Draft / Scheduled / Private / Unlisted / Public, Notices) theo lịch chung hoặc Đồng bộ ngay; cột hiển thị tùy chọn; chi tiết kênh dạng bảng. Tải video: Nâng cao gọn theo nhóm, cột Thư mục xuất từng dòng; đuôi file cạnh Tên xuất ở mọi bảng. Áp dụng tất cả theo dòng đã chọn. Mở ứng dụng không còn chạy FFmpeg ngầm; chỉ đóng đúng tab Chrome ứng dụng mở; báo trước mỗi lần mở Chrome.",
   "exe": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.2/YouTubeToolStudio.exe",
-    "sha256": "eba8ea4a9a015ddbc640011834a1a17b94c37ea5880836f2468a35f0c4d47424",
-    "size": 106529280
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.3/YouTubeToolStudio.exe",
+    "sha256": "b8e0dbe6c40baf077c76fad7ca8fe28e80661272663f890bde28d8450263773a",
+    "size": 106562560
   },
   "setup": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.2/YouTubeToolStudio-Setup.exe",
-    "sha256": "0df655fbab4afca7f6d177800da10e1f0cd726f7a532e2b2b4db8bfb07f62add",
-    "size": 106707456
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.3/YouTubeToolStudio-Setup.exe",
+    "sha256": "24f6cb1799352a7079fe06e2a5ca831c1bcff98b7ddb80fd89fac83a1af56452",
+    "size": 106740736
   },
   "licenseServer": "https://script.google.com/macros/s/AKfycbz4-2FWioPsjAeBMyIRYXGVJ5LlyqL45iS7IuyOhVEJJgHb9pJLSaOg6ffbMIIA3Cid/exec"
 }
