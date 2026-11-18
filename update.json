@@ -1,16 +1,16 @@
 {
-  "version": "1.0.6",
-  "date": "2026-11-18T08:33:07.024Z",
-  "notes": "1.0.6: Lấy kênh từ Chrome / đồng bộ Studio không còn kẹt ở trang đăng nhập Google — profile chưa đăng nhập thì để mở trang đăng nhập, đăng nhập xong ứng dụng tự đọc tiếp. Mở bản mới tự trỏ lối tắt về bản đang dùng và chuyển tệp exe bản cũ vào Thùng rác, không còn bị quay về bản cũ.",
+  "version": "1.0.8",
+  "date": "2026-11-18T15:06:36.537Z",
+  "notes": "## YouTube Tool Studio 1.0.8\n\n### Công cụ AI (dùng tài khoản AI có sẵn trên máy)\n- Cài đặt → **AI**: kết nối một lần bấm với Claude app, Codex (tài khoản ChatGPT), Antigravity (tài khoản Google) — không cần API key. API key (ChatGPT, Claude, Gemini…) chỉ là dự phòng, tự chuyển AI kế tiếp khi lỗi / hết hạn mức.\n- **Quy trình AI**: mỗi tác vụ chọn cách chạy (tài khoản trên máy · API key · chép lệnh sang web) và mẫu lệnh chung + riêng từng loại AI.\n- **Tiêu đề, mô tả, tags** cho video sắp đăng (chi tiết kênh → Công cụ AI) và **Tiêu đề AI** ngay ở tiến trình Nhân bản / Nối video / Âm thanh đã xong. Kết quả luôn chờ bạn duyệt, có kiểm tra SEO.\n- **Phân tích Studio (AI)** cho nhiều kênh từ Danh sách kênh: tóm tắt số liệu Studio, điểm nổi bật, việc nên làm.\n\n### Xử lý video\n- **Thời lượng theo âm thanh** (Nâng cao → Âm thanh): video tự lặp và cắt đúng lúc âm thanh hết — áp dụng Thay thế âm thanh, Thêm thư mục âm thanh, Thêm từng file âm thanh; số lần nhân tự tính hiện ngay trong bảng.\n- **Chuyển mượt âm thanh**: chọn thời lượng làm mờ 0,5 – 5 giây.\n\n### YouTube Studio\n- Cài đặt → **YouTube Studio**: Chrome, chờ chuyển kênh, báo trước dùng chung cho Chụp và Đồng bộ (tắt chụp vẫn chỉnh được).\n- Lấy kênh từ nhiều profile Chrome: kênh của profile sau nay có đủ logo và mã kênh.\n- Popup báo trước Chụp và Đồng bộ cùng lúc xếp chồng, không đè nhau.\n\n### Giao diện & sửa lỗi\n- Thanh tiến độ trên icon taskbar Windows.\n- Popup không còn bị cắt trên / dưới khi cửa sổ thấp; nhãn cài đặt nhiều dòng căn trên.\n- Chuông thông báo chỉ đánh dấu đã đọc mục bạn bấm.\n- Thông báo nổi: thường màu xanh, cảnh báo vàng nhạt dễ đọc.",
   "exe": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.6/YouTubeToolStudio.exe",
-    "sha256": "d76078442ab495ccd6e33664ea948f7e51d33cf2e464ad793e0c2f087ea3a756",
-    "size": 106580992
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.8/YouTubeToolStudio.exe",
+    "sha256": "f612ac37089631bd4518571c55e13c6179ba06d17c6ddbf72ed35d9559927bdd",
+    "size": 106617344
   },
   "setup": {
-    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.6/YouTubeToolStudio-Setup.exe",
-    "sha256": "cb92b848656499960d8aff9939ce2f47dd761317b7a1904549aaa05f72d5aeb0",
-    "size": 106758144
+    "url": "https://github.com/dengonquanofficial-svg/youtube_tool_studio/releases/download/v1.0.8/YouTubeToolStudio-Setup.exe",
+    "sha256": "865077f96b903576d8dfbf6c223f88f15d2566cea91ad37d83c6f6db216cbea2",
+    "size": 106793984
   },
   "licenseServer": "https://script.google.com/macros/s/AKfycbz4-2FWioPsjAeBMyIRYXGVJ5LlyqL45iS7IuyOhVEJJgHb9pJLSaOg6ffbMIIA3Cid/exec"
 }
